@@ -1,0 +1,9 @@
+C:\Users\ali.zafeer\source\repos\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+C:\Users\ali.zafeer\source\repos\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\ali.zafeer\source\repos\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\ali.zafeer\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.zafeer\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ali.zafeer\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+C:\Users\ali.zafeer\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ali.zafeer\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\ali.zafeer\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb
