@@ -1,0 +1,1 @@
+The Main solution is in the FunctionApp folder.
