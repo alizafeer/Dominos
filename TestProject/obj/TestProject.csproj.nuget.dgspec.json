@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ali.zafeer\\source\\repos\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ali.zafeer\\source\\repos\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ali.zafeer\\source\\repos\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\ali.zafeer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ali.zafeer\\source\\repos\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ali.zafeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\ali.zafeer\\source\\repos\\FunctionApp\\FunctionApp.csproj": {
+    "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\FunctionApp\\FunctionApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ali.zafeer\\source\\repos\\FunctionApp\\FunctionApp.csproj",
+        "projectUniqueName": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\FunctionApp\\FunctionApp.csproj",
         "projectName": "FunctionApp",
-        "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\FunctionApp\\FunctionApp.csproj",
+        "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\FunctionApp\\FunctionApp.csproj",
         "packagesPath": "C:\\Users\\ali.zafeer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ali.zafeer\\source\\repos\\FunctionApp\\obj\\",
+        "outputPath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\FunctionApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ali.zafeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,8 +86,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ali.zafeer\\source\\repos\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\ali.zafeer\\source\\repos\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ali.zafeer\\source\\repos\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\ali.zafeer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ali.zafeer\\source\\repos\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ali.zafeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,8 +180,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ali.zafeer\\source\\repos\\FunctionApp\\FunctionApp.csproj": {
-                "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\FunctionApp\\FunctionApp.csproj"
+              "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\FunctionApp\\FunctionApp.csproj": {
+                "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\FunctionApp\\FunctionApp.csproj"
               }
             }
           }

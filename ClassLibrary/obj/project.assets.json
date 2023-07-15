@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ali.zafeer\\source\\repos\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\ClassLibrary\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\ClassLibrary\\ClassLibrary.csproj",
+      "projectPath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\ClassLibrary\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\ali.zafeer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ali.zafeer\\source\\repos\\ClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ali.zafeer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zfC9ykdLcPPtUlFbZRgIlsTPPIeYXBfPRJS+PFPag7I/QKS9ZUIKpefm21ZtbYt1vV1yxbbEGx5FP3c5Moyjsw==",
+  "dgSpecHash": "t3m02IA6weYGCzxcFZt0CcmKprYOEtXzcJY7tWIgSWBia1gm4n5mbhujaSDaIU2Lki2/ty8jS2MUpXVDK+vEhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ali.zafeer\\source\\repos\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ali.zafeer\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\ali.zafeer\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

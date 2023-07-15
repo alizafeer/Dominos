@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S31yvgq76LcA4mK9eQYw6jK3DUe8lPOAZaTtcm5g+rvJ90mvBGjuNVbClBUrk2yIfC9dW+TWuDWzCTfUbtKRlA==",
+  "dgSpecHash": "ows3uxIAuuMtu6vs7lB/fFE+WDRFp5daIU5HgCecOnROSRVIh7cpq9CeIK9eSw7p3nfmA8vnRkaZmbrb+qckXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ali.zafeer\\source\\repos\\ClassLibrary\\ClassLibrary.csproj",
+  "projectFilePath": "C:\\Users\\ali.zafeer\\source\\repos\\Azure Serverless Function and Xunit\\ClassLibrary\\ClassLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
